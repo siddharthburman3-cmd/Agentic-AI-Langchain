@@ -74,8 +74,13 @@ State persistence and context management
 Agent Architecture
 Single agents with tool use
 Model Context Protocol (MCP)
+
 ---------------------------covered------------------------------------
+
+
 ----------------------yet yo start -------------------------------------
+
+
 Multi-agent systems
 Agent workflows and collaboration
 Runtime context and state

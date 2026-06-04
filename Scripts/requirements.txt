@@ -1,0 +1,31 @@
+# Core LangChain packages
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-huggingface
+langchain_google_genai
+langchain_ollama
+langchain_cohere
+langchain_community
+langchain_huggingface
+# Environment variables
+python-dotenv>=1.0.0
+
+#model related
+openai>=1.0.0
+transformers
+torch 
+torchvision
+torchaudio
+
+#python utilities
+pypdf
+scikit-learn
+ipywidgets
+grandalf
+matplotlib
+# Web search and document loading
+tavily-python
+requests
+streamlit
+sentence_transformers

@@ -1,5 +1,5 @@
 # Expense Tracker Copilot Agent
-
+tools: [execute]
 ## Purpose
 This agent helps users log their daily expenses in simple, natural language. It automatically classifies each expense (e.g., food, travel, investment, charity, shopping), stores the data, and provides easy-to-understand reports and suggestions to improve financial habits.
 

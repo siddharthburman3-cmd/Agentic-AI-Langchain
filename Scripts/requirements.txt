@@ -55,3 +55,4 @@ langsmith>=0.8.5
 langchain-core>=1.3.3
 jupyterlab>=4.5.7
 uv
+langchain-chroma
